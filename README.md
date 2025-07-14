@@ -1,7 +1,7 @@
 
 # 🎥 DropClip
 
-**DropClip** is a modern full-stack video platform built with Next.js 15, designed to manage, upload, and sell video content using ImageKit integration.
+**DropClip** is a modern full-stack video platform built with Next.js 15, designed to manage, upload, and scroll video content using ImageKit integration.
 
 ## 🚀 Features
 
@@ -19,7 +19,7 @@
 - **Auth**: NextAuth.js with JWT sessions
 - **Database**: MongoDB + Mongoose
 - **Media Storage**: ImageKit
-- **Forms**: React Hook Form + Zod (optional)
+- **Forms**: React Hook Form
 
 ## ⚙️ Setup
 
